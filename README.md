@@ -159,3 +159,8 @@ En este ejemplo, la clase de alto nivel `Pedido` crea directamente una instancia
 Para aplicar el DIP, introducimos una abstracción (`PasarelaPago`) y utilizamos la inyección de dependencias para pasar la pasarela deseada al instanciar `Pedido`. Ahora `Pedido` depende de una abstracción y no de los detalles de bajo nivel.
 
 <img src="https://github.com/AdrianCa17-G/SOLID/blob/main/Imagenes_Python/SPython.png" alt="Texto alternativo" width="700"/>
+
+---
+
+> Tarea desarrollada por Adrian Guaman — Programación Orientada a Objetos  
+> UTPL | Ingeniería en Ciencias de la Computación
